@@ -1,0 +1,6 @@
+package com.resoftltd.fotbuzz.fotbuzz
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
